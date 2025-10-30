@@ -4,12 +4,12 @@ class DevspaceSweeper < Formula
     version "0.1.4"
   
     on_macos do
-      url "https://github.com/adwaitdeshpande/devspace-sweeper/releases/download/v0.1.0/devspace-sweeper-macos.tar.gz"
+      url "https://github.com/adwaitdeshpande/devspace-sweeper/releases/download/v0.1.2/devspace-sweeper-macos.tar.gz"
       sha256 "c314c49134888c09a0c13a14e08002164d7cb0ca841f511d4bf1c05630599721"
     end
   
     on_linux do
-      url "https://github.com/adwaitdeshpande/devspace-sweeper/releases/download/v0.1.0/devspace-sweeper-linux.tar.gz"
+      url "https://github.com/adwaitdeshpande/devspace-sweeper/releases/download/v0.1.2/devspace-sweeper-linux.tar.gz"
       sha256 "58fa54a5c0816c371d84b676a07caa0222e3a3e8d70bbb1edffaae77f2c333b2"
     end
   
